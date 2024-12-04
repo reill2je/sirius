@@ -6,7 +6,7 @@
     background-position: center; /* This centers the image */
 }
 #sky{
-    background-image: url('nightsky.jpeg');
+    background-image: url('pull.jpeg');
     background-size: cover; /* This ensures the image covers the entire area */
     background-position: center; /* This centers the image */
     color: white;
